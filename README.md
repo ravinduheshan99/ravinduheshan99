@@ -1,7 +1,10 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Ravindu Haputhanthri</h1>
+<h1 align="center">Hey It's Me, Ravindu Haputhanthri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <img src="https://lh3.googleusercontent.com/-Qz_8NuGBAe4/VhE3wxJUcoI/AAAAAAAAkZ0/zEJAcYxcypE/s1600/sri-lanka-flag-animation.gif" width=30px>  <img src="./assets/sl-flag.gif" width="35px"></h1>
 <h3 align="center">Passionate CS Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ravinduheshan99&label=Profile%20views&color=0e75b6&style=flat" alt="ravinduheshan99" /> </p>
+
+<p align="center">🏆 GitHub Trophies</p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ravinduheshan99&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/></p>
 
 <table align="center">
 <tr border="none">
