@@ -3,7 +3,7 @@
 </div>
 
 <!--<h1 align="center">Hey It's Me, Ravindu Haputhanthri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <img src="https://lh3.googleusercontent.com/-Qz_8NuGBAe4/VhE3wxJUcoI/AAAAAAAAkZ0/zEJAcYxcypE/s1600/sri-lanka-flag-animation.gif" width=30px>  <img src="./assets/sl-flag.gif" width="35px"></h1>-->
-<h3 align="center">Passionate CS Student | Exploring the Boundless World of Technology | Software Engineering Enthusiast</h3>
+<h3 align="center">Passionate CS Student| Exploring the Boundless World of Technology | Software Engineering Enthusiast</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ravinduheshan99&label=Profile%20views&color=0e75b6&style=flat" alt="ravinduheshan99" /> </p>
 
 <p align="center">🏆 GitHub Trophies</p>
