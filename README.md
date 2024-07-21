@@ -64,13 +64,6 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/ravindu-haputhanthri-307b23213?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcI9pmOsiTKWiBikv9v%2B95A%3D%3D" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
-</p>
-
----
-
 <h3 align="center">Languages and Tools:</h3>
 
 <div align="center">
@@ -127,5 +120,15 @@
 </div>
   
 ---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/ravindu-haputhanthri-307b23213?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcI9pmOsiTKWiBikv9v%2B95A%3D%3D" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
+<a href="https://www.facebook.com/ravindu.haputhanthri?mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
+<a href="https://www.instagram.com/ravinduheshan99?igsh=ZHMxMHAyYzA0b2M3&utm_source=qr" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
+</p>
+
+---
+
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://buymeacoffee.com/ravinduheshan99"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
