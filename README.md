@@ -3,7 +3,7 @@
 </div>
 
 <!--<h1 align="center">Hey It's Me, Ravindu Haputhanthri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <img src="https://lh3.googleusercontent.com/-Qz_8NuGBAe4/VhE3wxJUcoI/AAAAAAAAkZ0/zEJAcYxcypE/s1600/sri-lanka-flag-animation.gif" width=30px>  <img src="./assets/sl-flag.gif" width="35px"></h1>-->
-<h3 align="center">Passionate CS Student | Exploring the Boundless World of Technology | Software Engineering Enthusiast</h3>
+<h3 align="center">Passionate CS Graduate | QA Intern @ IFS | Java DevOps Enthusiast</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ravinduheshan99&label=Profile%20views&color=0e75b6&style=flat" alt="ravinduheshan99" /> </p>
 
 <h3 align="center">🏆 GitHub TROPHIES</h3>
@@ -13,19 +13,21 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently a learner **who is doing BSc (Hons) in Computer Science**
+- 🎓 I recently completed my **BSc (Hons) in Computer Science** from the **University of Kelaniya, Sri Lanka** 
 
-- 🧑‍🎓 I’m an Undergraduate at the University Of Kelaniya Sri Lanka
+- 💼 Currently working as a **Software QA Intern at IFS**
 
-- 👨‍💻 All of my projects are available at [https://ravinduheshan99.github.io/My-Portfolio/](https://ravinduheshan99.github.io/My-Portfolio/)
-  
-- 💬 Ask me about **Java**
+- 👨‍💻 Passionate about **Java**, **Spring Boot**, and **Test Automation**
 
-- 📄 Know about my experiences [https://ravinduheshan99.github.io/My-Portfolio/assets/cv.pdf](https://ravinduheshan99.github.io/My-Portfolio/assets/cv.pdf)
+- 🔬 Exploring **AI/ML Research** - NLP for detecting personality traits
+
+- 💻 Portfolio: [https://ravinduheshan99.github.io/My-Portfolio/](https://ravinduheshan99.github.io/My-Portfolio/)
+
+- 📄 Resume: [https://ravinduheshan99.github.io/My-Portfolio/assets/cv.pdf](https://ravinduheshan99.github.io/My-Portfolio/assets/cv.pdf)
 
 - 📫 How to reach me **ravinduheshan99@gmail.com**
   
-- ⚡ Fun fact **Call me as RV**
+- ⚡ Fun fact: People call me **RV** 😄
 
 </td>
 <td width="50%" align="center">
